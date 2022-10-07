@@ -39,9 +39,8 @@ o GIT está instalado e configurado no seu dispositivo, hora de explorar os conc
 
 Para aprender mais sobre o Git/Git Hub recomendo que veja esse curso disponibilizado pela própria DIO feito por um especialista 
 
-[Curso DIO]: https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/potencia-tech-powered-ifood-java-beginners&tab
 
-
+[Curso DIO](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/potencia-tech-powered-ifood-java-beginners&tab)
 
 ##### Referências
 

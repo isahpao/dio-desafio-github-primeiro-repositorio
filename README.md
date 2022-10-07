@@ -2,7 +2,7 @@
  
 <h1 align="center"> Desafio de Projeto da DIO </h1>
 
-![Logo da DIO](https://user-images.githubusercontent.com/115017351/194450523-cf7d213a-9962-47f1-a770-baf13622a85c.png)
+![2](https://user-images.githubusercontent.com/115017351/194452738-29422f03-a9cd-4d34-81c7-d21d3a995ad2.png)
 
 <p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> </p>
 
@@ -14,4 +14,8 @@ Mesmo estando já dentro do GitHub e usando ele para fazer este repositório, eu
 
 :sparkles: :sparkles: :sparkles: 
 
+
+
 <img src="https://avatars.githubusercontent.com/isahpao" width=115><br><sub>Isabelah Campos</sub>
+
+
